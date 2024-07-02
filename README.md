@@ -1,0 +1,3 @@
+As you can see in this repository, I've learnt to use list comprehensions, lambda functions and .apply() method in datasets firts. Then I've learnt to use unsupervised learning algorithms
+(K-Means Clustering and Hierarchical Clustering algorithms) to cluster datasets. I've learnt to create elbow and dendrogram graphs to evaluate and find optimum numbers of clusters for both algorithms. Finally
+I've learnt to create some visuals (histograms for analyzing numerical data, boxplots for finding outliers, pairplot for analyzing multiple columns as pairs) by using seaborn library's visualization functions.
